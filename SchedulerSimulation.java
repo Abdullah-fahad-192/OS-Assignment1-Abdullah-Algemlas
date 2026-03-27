@@ -1,3 +1,4 @@
+
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
@@ -308,8 +309,8 @@ public class SchedulerSimulation {
         processMap.put(thread, process);
         // Print a message indicating the process has entered the ready queue
         // FEATURE 1: Updated output message to include priority
-        // Example: "P1 (Priority: 4) enters the ready queue"
-        System.out.println(Colors.BLUE + "  ➕ " + Colors.BOLD + Colors.CYAN + process.getName() + 
+        // Example: "P1 (Priority: 4) enters the ready queue..."
+        System.out.println(Colors.BLUE + "   ➕ " + Colors.BOLD + Colors.CYAN + process.getName() + 
                           Colors.RESET + Colors.YELLOW + " (Priority: " + process.getPriority() + ")" + 
                           Colors.RESET + Colors.BLUE + " added to ready queue" + Colors.RESET + 
                           " │ Burst time: " + Colors.YELLOW + process.getBurstTime() + "ms" + 
