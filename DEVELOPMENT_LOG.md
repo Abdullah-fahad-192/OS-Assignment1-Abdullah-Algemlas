@@ -59,18 +59,17 @@ I used artificial intelligence to understand the feature and help me with the di
 Time spent:
 about 1.5 hours
 ---
-
-### Entry 3 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
+Entry 3 - [ [march 28,2026-2 am]
+What I did:
+i solve  Feature 2: Count Context Switches
+Details:
+Add a static counter variable  and  Increment the counter each time a new process starts running and in the end  Display total context switches 
+Challenges:
+Some requirements I wasn't sure were located exactly—whether in the Process class or within the main class—and this applies to all features.
+Solution:
+I tried placing the command in all locations, then I used artificial intelligence to identify them correctly.
+Time spent:
+about 1 hours
 ---
 
 ### Entry 4 - [Date and Time]
