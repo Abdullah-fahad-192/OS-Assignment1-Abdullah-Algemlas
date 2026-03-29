@@ -71,20 +71,23 @@ I tried placing the command in all locations, then I used artificial intelligenc
 Time spent:
 about 1 hours
 ---
+Entry 4 - [ [ [march 28,2026-10 pm]
+What I did:
+i  Track Waiting Time
+Details:
+i  Add fields to track when each process was created and total time spent waiting and i Use System.currentTimeMillis() to track time
+Challenges:
+This was the most difficult feature because it required me to track whether each transaction was completed or not and to count the number of entries.
+Solution:
+This command helped me: `public void updateWaitingTime() {
+long currentTime = System.currentTimeMillis();
+long waitTime = currentTime - lastReadyTime; // Time spent waiting since last added to queue
+totalWaitingTime += waitTime;
 
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
+}` because it made it easy for me to calculate the total wait time.
+Time spent:
+about 3.5 hours 
 ---
-
 ### Entry 5 - [Date and Time]
 **What I did**: 
 
