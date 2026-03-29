@@ -46,17 +46,18 @@ about 2 hours
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
 
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
+Entry 2 - [march 27,2026-11 pm]
+What I did:
+I worked on Feature 1: Add Process Priority
+Details:
+ i Add a priority field to the Process class and Generate random priorities when creating processes and in the end i  Display priority when a process enters the ready queue
+Challenges:
+The biggest problem was that this was the first code I wrote in the program, and the Display Priority section was complicated.
+Solution:
+I used artificial intelligence to understand the feature and help me with the display, including updating the constructor and adding a getter method for priority.
+Time spent:
+about 1.5 hours
 ---
 
 ### Entry 3 - [Date and Time]
