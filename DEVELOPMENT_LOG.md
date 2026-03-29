@@ -32,16 +32,17 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+Entry 1 - [March 25, 2026 - 6 PM]
+What I did: 
+I started creating the assignment and setting up my own account on GetHub
+Details:
+I read the instructions and assignment guidelines, including creating an account, Fork the Starter Repository, and RenameYourRepository, and finally, I updated my university ID number.
+Challenges:
+I encountered some problems, most notably my lack of understanding of the GetHub website and its structure, and I also had difficulty downloading Visual Studio Code due to my computer.
+Solution:
+I watched some helpful videos to solve my problems; for example, I watched a video explaining the menus for GetHub and another that gave me the most important add-ons for downloading Visual Studio Code to make my work easier and faster.
+Time spent:
+about 2 hours
 
 ---
 
