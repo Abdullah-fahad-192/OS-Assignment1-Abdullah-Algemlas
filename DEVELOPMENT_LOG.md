@@ -112,13 +112,11 @@ I went back to the last point I saved to complete some of the missing parts that
 Time spent:
 about 1 hour
 ---
-
-## Summary
-
-**Total time spent on assignment**: [X hours]
-
-**Most challenging part**: 
-
-**Most interesting learning**: 
-
-**What I would do differently next time**: 
+Summary
+Total time spent on assignment: [about 12 hours]
+Most challenging part:
+4 
+Most interesting learning:
+I discovered that I can work with code in both NetBeans and Visual Studio Code, but the important point is that in NetBeans some markers don't appear in the code, and in Visual Studio Code sometimes the progress bar isn't displayed correctly. Each application has its advantages and disadvantages.
+What I would do differently next time:
+I will prepare myself better by starting early and not relying too heavily on artificial intelligence to understand better.
