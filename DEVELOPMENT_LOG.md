@@ -88,19 +88,18 @@ totalWaitingTime += waitTime;
 Time spent:
 about 3.5 hours 
 ---
-### Entry 5 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
+Entry 5 - [[ [march 29,2026-3 am]
+What I did:
+I tested the program 
+Details:
+I ran the code in segments, for example, Feature 1, then I ran the code, then Feature 2, then I ran the code again, in order to verify the output.
+Challenges:
+I was getting various output errors, and the first feature would appear correct, but adding feature 2 would result in an error in feature 1's code.
+Solution:
+In Visual Studio Code, I can view errors, then correct them, and see the previous error.
+Time spent:
+about 2 hours 
 ---
-
 ### Entry 6 - [Optional - Date and Time]
 **What I did**: 
 
