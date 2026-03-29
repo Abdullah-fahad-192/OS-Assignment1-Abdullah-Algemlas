@@ -100,17 +100,17 @@ In Visual Studio Code, I can view errors, then correct them, and see the previou
 Time spent:
 about 2 hours 
 ---
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
+Entry 6 - [Optiona - [ [march 28,2026-6 am]
+What I did:
+I ran the program after 3 hours for end entry 5 
+Details:
+I ran the program a 3 hours  later to check the completed work and the save point.
+Challenges:
+I was surprised to find that some of the code was jumbled, some was deleted from my end, and some was incomplete.
+Solution:
+I went back to the last point I saved to complete some of the missing parts that I hadn't saved.
+Time spent:
+about 1 hour
 ---
 
 ## Summary
